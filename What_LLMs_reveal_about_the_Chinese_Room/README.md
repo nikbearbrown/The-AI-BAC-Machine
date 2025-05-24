@@ -1,12 +1,6 @@
 # Bear Draws AI
 **Can a machine ever be truly intelligent? What LLMs reveal about the Chinese Room**
 
-, in the style of Ralph Steadman, Adrian Tomine, Jean Jullien. David Choe, E.H. Shepard, with simple lines and shapes , #000000 #FFFFFF #DC3C32 #C8C8C8 #787878 #3C2415 #FAF7F2, white background, illustration, vector art. --p ful7u21 --ar 16:9 --v 7.0 --ow 111 --oref 
-
-
-, in the style of Ralph Steadman, Adrian Tomine, Jean Jullien. David Choe, E.H. Shepard, with simple lines and shapes ,#000000 #FFFFFF #DC3C32 #C8C8C8 #787878 #3C2415 #FAF7F2, white background, illustration, vector art. --ar 2:3 --profile ful7u21 --v 7 --oref  
-
-
 ## Voiceover
 
 **Can a machine ever be truly intelligent? What LLMs reveal about the Chinese Room**
