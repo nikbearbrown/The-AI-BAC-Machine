@@ -1,5 +1,7 @@
 Can you write another episode of the The AI BAC Machine about X. Model it as an interview with X Emphasize why X is important.
 
+For an AI-BAC episode.  Nik Bear, the narrator will explain most of it but there should be actual relevant quotes from the characters in the script.  If no actual quotes then create quotes in the spirit of the character
+
 # Satyendra Nath Bose - The Quantum Revolution
 ## A Complete Lecture Script (3-4 minutes)
 
