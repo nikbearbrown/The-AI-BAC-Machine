@@ -1,3 +1,5 @@
+Can you write another episode of the The AI BAC Machine about X. Model it as an interview with X Emphasize why X is important.
+
 # Satyendra Nath Bose - The Quantum Revolution
 ## A Complete Lecture Script (3-4 minutes)
 
