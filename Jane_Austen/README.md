@@ -144,3 +144,82 @@ emma_woodhouse_actions = [
     "Reading by the window in afternoon light—wearing a becoming day dress while pretending the book is more interesting than the view."
 ]
 ```
+
+# Jane Austen & Emma Woodhouse - Dialogue Split
+
+## Jane Austen's Lines
+**Recommended Accent: Educated Hampshire/Southern English, late Georgian period - refined but not overly posh, slight country warmth**
+
+1. "Welcome to my little writing room. I am Jane Austen, and this is Miss Emma Woodhouse—though I must say, she has given me considerable trouble over the years."
+
+2. "Indeed. You see, I wanted to write about a heroine whom no one but myself would much like. Emma begins as handsome, clever, and rich—but also spoiled, often cruel, and quite wrong about nearly everything."
+
+3. "But that is precisely why Emma matters. Most novels of my time featured perfect heroines—paragons of virtue who never made real mistakes. I found this rather tiresome, you know."
+
+4. "Exactly so. Through Emma, I explored something quite revolutionary—the idea that women's inner lives are complex and worthy of serious literary attention. Her thoughts, her self-deceptions, her gradual awakening to her own faults... this was new territory."
+
+5. "And there lies another innovation—Emma marries not to escape poverty or gain status, but because she finds an intellectual equal who challenges her to become better. Their relationship is based on mutual respect and genuine affection."
+
+6. "You see, I was writing during a time when women had precious few options. Marriage or spinsterhood, essentially. But through my heroines, I explored the possibility that women might have agency in their choices—that they might think, feel, and decide for themselves."
+
+7. "I found that humor could reveal truths that direct criticism might not. By satirizing the marriage market, the class system, and social climbing, I could comment on the absurdities of my world while entertaining my readers."
+
+8. "The drawing room can be as fraught with tension and revelation as any battlefield. A poorly chosen word at a social gathering can destroy reputations. The stakes in these social interactions are quite real, particularly for women whose entire futures depend on making good marriages."
+
+9. "Indeed. I wanted to show that true growth comes from honest self-examination. Emma's journey from self-satisfaction to self-awareness mirrors what we all must do—recognize our faults and strive to overcome them."
+
+10. "Women's minds are every bit as capable as men's, yet literature rarely reflected this. I wanted to create heroines who were thinking beings, not merely beautiful objects or moral examples."
+
+11. "That is perhaps my greatest pride—that by observing the particular manners of my time and place, I captured something universal about human behavior. Love, vanity, self-deception, growth—these are timeless themes."
+
+12. "Precisely. The human heart and its complexities—there lies the greatest drama of all."
+
+---
+
+## Emma Woodhouse's Lines
+**Recommended Accent: Upper-class Surrey/Home Counties Regency - privileged, confident, well-educated young lady with slight hauteur that softens through character growth**
+
+1. "Miss Austen is far too modest. She created me to be troublesome, I believe. Though I have learned much from our association."
+
+2. "I confess, I was rather insufferable. I meddled in others' affairs, thinking myself superior in understanding. I hurt dear Harriet Smith terribly with my matchmaking schemes, and was positively rude to Miss Bates at Box Hill."
+
+3. "Miss Austen believed that truly interesting people are flawed. She showed that a woman could be intelligent and independent, yet still make dreadful errors in judgment. The key is learning from them."
+
+4. "I spent most of the novel believing I understood everyone around me better than they understood themselves. How wrong I was! Mr. Knightley saw my faults clearly, but loved me enough to help me recognize them."
+
+5. "Though I declared I should never marry! I thought myself quite above such concerns. But I learned that independence need not mean isolation, and that the right partnership can enhance rather than diminish one's sense of self."
+
+6. "Miss Austen also used wit as a weapon, you know. Her irony cuts through social pretension like a blade. 'It is a truth universally acknowledged that a single man in possession of a good fortune must be in want of a wife'—such delicious mockery of social assumptions!"
+
+7. "What fascinates me is how Miss Austen wrote about domestic life—drawing rooms, tea parties, social calls—and made them as dramatically compelling as any adventure story. She proved that women's daily experiences were worthy of serious literary attention."
+
+8. "I learned this lesson painfully. My thoughtless comment to Miss Bates revealed not just bad manners, but a failure of empathy that shocked me about myself. Such moments of self-recognition—they transform us, do they not?"
+
+9. "Miss Austen also gave me something many heroines lacked—real intelligence. I may have misused it initially, but I was allowed to think, to analyze, to form opinions. Even when wrong, I was permitted to be intellectually active."
+
+10. "And see how our stories endure! Modern readers still recognize the social types we portrayed—the social climber, the fortune hunter, the meddling friend. Human nature remains remarkably consistent, doesn't it?"
+
+11. "We showed that ordinary people living ordinary lives could be the subjects of great literature. One need not slay dragons or inherit kingdoms to have a story worth telling."
+
+---
+
+## Accent Guidance
+
+### Jane Austen (Author Voice)
+- **Accent**: Educated Hampshire/Southern English, c. 1815
+- **Tone**: Warm, observant, slightly ironic
+- **Pace**: Measured, thoughtful
+- **Characteristics**: Gentle authority, literary insight, modest confidence
+- **Examples**: Think Olivia Williams or similar refined but approachable English accent
+
+### Emma Woodhouse (Character Voice)
+- **Accent**: Upper-class Surrey/Home Counties Regency
+- **Tone**: Initially confident bordering on entitled, evolving to more humble wisdom
+- **Pace**: More animated than Austen, expressive
+- **Characteristics**: Social privilege evident but tempered by learned humility
+- **Examples**: Think Anya Taylor-Joy in Emma (2020) - refined but with youthful energy
+
+### Key Differences:
+- **Jane**: More grounded, authorial wisdom, slight country warmth
+- **Emma**: More elevated social class, character evolution from pride to humility
+- Both should sound authentically Regency-era rather than modern RP
