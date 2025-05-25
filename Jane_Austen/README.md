@@ -77,23 +77,70 @@
 
 ## Visual Prompt Guidelines
 
-### Jane Austen Appearance:
-- **Age**: 39-40 (writing Emma in 1815)
-- **Dress**: Simple Regency gown, white muslin or pale colors
-- **Hair**: Brown hair in period-appropriate style, simple cap or bonnet
-- **Setting**: Small writing table, quill pen, scattered papers
-- **Expression**: Intelligent, observant, slight ironic smile
+## Visual Prompts for Interview
 
-### Emma Woodhouse Appearance:
-- **Age**: 20-21, considered quite beautiful
-- **Dress**: More elaborate Regency fashion, finer fabrics, fashionable colors
-- **Hair**: Styled more elaborately than Austen's, no cap (unmarried)
-- **Demeanor**: Confident, animated, elegant posture
-- **Expression**: Engaging, sometimes self-deprecating, learned wisdom
+### Jane Austen Camera Angles:
 
-### Setting Details:
-- **Location**: Chawton Cottage writing room
-- **Furniture**: Simple wooden furniture, small writing desk
-- **Lighting**: Natural light from small windows
-- **Props**: Quill pens, ink, manuscript pages, published novels
-- **Atmosphere**: Intimate, scholarly, domestic comfort
+**Angle 1 - Medium Shot:** "Medium shot of Jane Austen, age 39-40, in simple white muslin Regency gown, brown hair in period style with simple cap, seated at small wooden writing table with quill pen and scattered manuscript papers. Intelligent, observant expression with slight ironic smile. 1815 Chawton Cottage interior, natural window lighting, warm domestic atmosphere."
+
+**Angle 2 - Close-up:** "Close-up of Jane Austen's face, age 39-40, brown hair with simple cap or bonnet, intelligent eyes with slight ironic smile. Simple white muslin Regency dress visible at shoulders. Soft natural lighting from cottage window. Expression of wit and literary insight. Period-accurate 1815 styling."
+
+**Angle 3 - Three-quarter Shot:** "Three-quarter shot of Jane Austen at writing desk, age 39-40, simple Regency gown in pale colors, brown hair with cap, leaning slightly forward in conversation. Quill pen in hand, manuscript pages visible on small wooden table. Chawton Cottage setting, natural lighting, scholarly domestic atmosphere."
+
+### Emma Woodhouse Camera Angles:
+
+**Angle 1 - Medium Shot:** "Medium shot of Emma Woodhouse, age 20-21 and beautiful, in elaborate Regency fashion with fine fabrics and fashionable colors, hair styled elaborately with no cap. Confident, animated demeanor with elegant posture. Engaging expression showing learned wisdom. 1815 drawing room setting, natural lighting."
+
+**Angle 2 - Close-up:** "Close-up of Emma Woodhouse's beautiful face, age 20-21, elaborately styled hair with no cap, engaging expression with occasional self-deprecating smile. Fine Regency dress fabric visible at shoulders in fashionable colors. Soft natural lighting. Confident yet thoughtful demeanor."
+
+**Angle 3 - Profile Shot:** "Profile shot of Emma Woodhouse, age 20-21, showing elegant posture and elaborate hairstyle, fine Regency gown in fashionable colors. Animated gestures during conversation, confident demeanor. Drawing room interior, natural window lighting, refined domestic setting."
+
+## Character Action Lists
+
+```python
+jane_austen_actions = [
+    "Dipping her quill pen in ink while pausing mid-sentence—searching for the perfect word with a slight frown.",
+    "Adjusting her simple cap with ink-stained fingers—leaving a small smudge on the white muslin.",
+    "Reading a letter from her publisher aloud—then crumpling it with a dramatic sigh about editorial suggestions.",
+    "Walking through Chawton village in her pale gown—nodding politely to neighbors while mentally cataloging their quirks for future characters.",
+    "Sitting by the cottage window with needlework—but actually eavesdropping on the local gossip outside.",
+    "Scratching out entire paragraphs with determined strokes—muttering 'No, no, that won't do at all.'",
+    "Sipping tea from a delicate cup while reviewing manuscript pages—occasionally raising an eyebrow at her own wit.",
+    "Playing pianoforte in the evening—fingers dancing over keys while humming a country dance tune.",
+    "Walking in the garden wearing a spencer jacket—pausing to deadhead roses while plotting a character's downfall.",
+    "Writing by candlelight in her simple nightgown and cap—completely absorbed in a dramatic scene until dawn.",
+    "Sharing literary gossip with Cassandra—speaking in code about which neighbor inspired which ridiculous character.",
+    "Reading her work aloud to test the dialogue—using different voices and gestures for each character.",
+    "Organizing her writing desk with methodical precision—arranging quills, blotter, and sand shaker just so.",
+    "Taking brisk walks along country lanes in sturdy boots—working out plot complications with each step.",
+    "Attending a village assembly in her best gown—observing the social dynamics while pretending to enjoy the dancing.",
+    "Mending a tear in her muslin dress—while simultaneously solving a narrative problem about inheritance laws.",
+    "Writing letters to her nieces in careful script—offering both family news and subtle writing advice.",
+    "Examining fashion plates from London—mentally designing gowns for her heroines while critiquing the expense.",
+    "Hiding her manuscript under embroidery when visitors call—switching seamlessly to discussing the weather.",
+    "Reading novels by other authors with a critical eye—making marginal notes in pencil about their techniques."
+]
+
+emma_woodhouse_actions = [
+    "Arranging flowers in an elaborate crystal vase—pausing to admire how the colors complement her fashionable gown.",
+    "Walking through Hartfield's grounds in fine kid gloves—stopping to give unnecessary advice to the gardeners.",
+    "Practicing watercolor painting while wearing a silk painting apron—critiquing her own work with theatrical sighs.",
+    "Playing elaborate pieces on the pianoforte—showing off for guests while secretly hoping for applause.",
+    "Embroidering delicate patterns on fine fabric—but abandoning the work when a more interesting distraction appears.",
+    "Hosting tea parties in her elegant drawing room—orchestrating conversations like a social conductor.",
+    "Riding in her carriage through Highbury—observing the townspeople and making mental notes about their affairs.",
+    "Writing letters at her mahogany writing desk—using the finest paper and her most elegant penmanship.",
+    "Attending village gatherings in her most fashionable gowns—ensuring all eyes are on her latest London styles.",
+    "Reading novels while lounging on a silk-covered settee—occasionally gasping dramatically at plot twists.",
+    "Supervising the servants with imperious gestures—while wearing her finest morning dress and jewelry.",
+    "Walking in the shrubbery wearing a pelisse and bonnet—pointing out improvements that could be made to the landscape.",
+    "Playing games of backgammon or piquet—competitive even in leisure activities, adjusting her ringlets when frustrated.",
+    "Shopping in local establishments—examining ribbons and lace while mentally redesigning everyone else's wardrobes.",
+    "Attending church in her Sunday best—a sophisticated gown with matching reticule and prayer book.",
+    "Dancing at local assemblies—moving gracefully in ball gowns while sizing up every eligible gentleman present.",
+    "Sketching portraits of friends—though secretly more interested in critiquing their fashion choices than capturing likenesses.",
+    "Taking morning walks with a parasol—protecting her complexion while surveying her social domain.",
+    "Arranging dinner parties—obsessing over seating charts and menu choices in her finest evening dress.",
+    "Reading by the window in afternoon light—wearing a becoming day dress while pretending the book is more interesting than the view."
+]
+```
